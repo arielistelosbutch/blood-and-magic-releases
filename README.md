@@ -3,7 +3,7 @@
 Unofficial fan remaster of **Blood & Magic** (1996, Tachyon Studios / Interplay) for modern Windows, with an optional Czech translation.
 Made by **Ivo "Arielistelos" Florek**.
 
-**Download (1.1.0):** [installer](downloads/BloodAndMagic_Reimagined_1.1.0_Setup.exe?raw=1) · [ZIP](downloads/BloodAndMagic_Reimagined_1.1.0.zip?raw=1) · [what's new / co je nového](notes_1.1.0.md)
+**Download (1.1.1):** [installer](downloads/BloodAndMagic_Reimagined_1.1.1_Setup.exe?raw=1) · [ZIP](downloads/BloodAndMagic_Reimagined_1.1.1.zip?raw=1) · [what's new / co je nového](notes_1.1.1.md)
 
 **You need your own original Blood & Magic CD (or a CD image).** No original game data is included; on the first run the game finds your CD / image and copies the data it needs.
 
