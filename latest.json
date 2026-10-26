@@ -1,20 +1,20 @@
 {
- "tag_name": "v1.1.1",
- "name": "Blood & Magic Reimagined 1.1.1",
+ "tag_name": "v1.1.2",
+ "name": "Blood & Magic Reimagined 1.1.2",
  "html_url": "https://github.com/arielistelosbutch/blood-and-magic-releases",
- "body": "## CZ\n### Verze 1.1.1 (testovací)\n- Testovací vydání pro ověření automatických aktualizací.\n- Žádné změny ve hře oproti verzi 1.1.0.\n\n## EN\n### Version 1.1.1 (test)\n- Test release to verify automatic updates.\n- No gameplay changes compared to 1.1.0.\n",
+ "body": "## CZ\n### Novinky ve verzi 1.1.2\n- Okna aktualizací, stahování a hlášení chyb (F7) jsou nově v původní grafice Blood & Magic: kamenná deska s keltským rámem, vyřezávaná tlačítka a písmo ze hry.\n- Dlouhé seznamy novinek jdou posouvat kolečkem, šipkami nebo táhlem.\n- Opraveno: hra se po zavření okna při otevřeném panelu aktualizací správně ukončí.\n\n## EN\n### What's new in 1.1.2\n- The update, download and bug report (F7) windows now use the original Blood & Magic artwork: carved stone tablet with a Celtic border, slate buttons and the game's own font.\n- Long release notes scroll with the wheel, arrow keys or the knob.\n- Fixed: the game now quits properly when the window is closed while the update panel is open.\n",
  "assets": [
   {
-   "name": "BloodAndMagic_Reimagined_1.1.1_Setup.exe",
-   "size": 30092383,
-   "browser_download_url": "https://raw.githubusercontent.com/arielistelosbutch/blood-and-magic-releases/main/downloads/BloodAndMagic_Reimagined_1.1.1_Setup.exe",
-   "digest": "sha256:05e0819e56d9de7b56a837d9222bcc28c734df73831233fd75590ab1276398bf"
+   "name": "BloodAndMagic_Reimagined_1.1.2_Setup.exe",
+   "size": 30113986,
+   "browser_download_url": "https://raw.githubusercontent.com/arielistelosbutch/blood-and-magic-releases/main/downloads/BloodAndMagic_Reimagined_1.1.2_Setup.exe",
+   "digest": "sha256:33e879c3135ddcc755ed37ce7f87c7140410c02a7757a48112b769d31e1185ae"
   },
   {
-   "name": "BloodAndMagic_Reimagined_1.1.1.zip",
-   "size": 32337094,
-   "browser_download_url": "https://raw.githubusercontent.com/arielistelosbutch/blood-and-magic-releases/main/downloads/BloodAndMagic_Reimagined_1.1.1.zip",
-   "digest": "sha256:ff0b19ad5e03e937ffb151dfbd671439a405128fafbaaacceea917e96cd585b1"
+   "name": "BloodAndMagic_Reimagined_1.1.2.zip",
+   "size": 32358711,
+   "browser_download_url": "https://raw.githubusercontent.com/arielistelosbutch/blood-and-magic-releases/main/downloads/BloodAndMagic_Reimagined_1.1.2.zip",
+   "digest": "sha256:48b958083d3425987b8734c6506136df46eeade4da967a2120967654a285aae6"
   }
  ]
 }
